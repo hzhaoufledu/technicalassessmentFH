@@ -4,8 +4,7 @@ Playwright + TypeScript automation for the saucedemo.com UI workflow test cases
 (login and shopping cart).
 
 ## Setup
-
-```The easiest way to run this script is to clone the repository to your local machine, and navigate to the root folder of the local clone, and use Terminal to execute.
+Clone/download everything to your local machine without changing any of the structure. You can either execute it within VisualStudio Code or simply using a Terminal window.
 
 ```bash
 npm install
